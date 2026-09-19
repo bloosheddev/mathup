@@ -24,16 +24,29 @@ X + Y = ??? (answer to snooze!!11!!1!)
 
 ## 🖼️ PCB!
 
-![https://i.imgur.com/dLjUDJL.png](https://i.imgur.com/dLjUDJL.png)
-![https://i.imgur.com/gnk9oGQ.png](https://i.imgur.com/gnk9oGQ.png)
+| 2D View | 3D View |
+| - | - |
+| ![https://i.imgur.com/dLjUDJL.png](https://i.imgur.com/dLjUDJL.png) | ![https://i.imgur.com/gnk9oGQ.png](https://i.imgur.com/gnk9oGQ.png) |
 
 ## Case Part!
-The lid:
-![https://i.imgur.com/KQA19zP.png](https://i.imgur.com/KQA19zP.png)
-The lid will be connected to the main case chassis using adhesive. \
-The case:
-![https://i.imgur.com/MDB6f13.png](https://i.imgur.com/MDB6f13.png)
-The PCB and all the main parts will be mounted on 3 mountings using M3 screws, and the lcd will be glued using strong adhesive to the case chassis.
+
+| Lid | Case Chassis |
+| - | - |
+| ![https://i.imgur.com/KQA19zP.png](https://i.imgur.com/KQA19zP.png) | ![https://i.imgur.com/MDB6f13.png](https://i.imgur.com/MDB6f13.png) |
+| The lid will be connected to the main case using strong adhesive to keep it minimalist and having a clean design | The PCB and all the main parts will be mounted on 3 mountings using M3 screws and for the LCD will be mounted on the case's dedicated slot for the LCD |
 
 ## Bill of Materials!
-![https://i.imgur.com/5rUkKYf.png](https://i.imgur.com/5rUkKYf.png)
+| Reference | Qty | Value |
+| - | - | - |
+| BZ1 | 1 | Buzzer |
+| J1 | 1 | Conn_01x08_Pin |
+| SW1,SW2,SW3,SW4 | 4 | SW_Push |
+| U1 | 1 | XIAO-ESP32-C3-SMD |
+| | 12 | MX-Style Keyboard Switches |
+| | 4 | White Blank DSA Keycaps |
+| | 1 | 2.25in TFT Screen |
+| | 1 | 3.3V Piezo Buzzer |
+| | 1 | 2.54mm 8 Pin Male Header |
+| | 8 | 20cm Female-Female Jumper Wires |
+| | 4 | M3x5x4 Heatset Inserts |
+| | 4 | M3x8mm Screws |
