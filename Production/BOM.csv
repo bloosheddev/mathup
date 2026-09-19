@@ -4,7 +4,7 @@
 "SW1,SW2,SW3,SW4","4","SW_Push",,,,,"${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",
 "U1","1","XIAO-ESP32-C3-SMD",,,,,"${EXCLUDE_FROM_POS_FILES}","Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-DIP",
 ,12,MX-Style Keyboard Switches,,,,,,,
-,1,White Blank DSA Keycaps,,,,,,,
+,4,White Blank DSA Keycaps,,,,,,,
 ,1,2.25in TFT Screen,,,,,,,
 ,1,3.3V Piezo Buzzer,,,,,,,
 ,1,2.54mm 8 Pin Male Header,,,,,,,
