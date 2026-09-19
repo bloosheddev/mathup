@@ -14,10 +14,10 @@
 ## 💀 Uniques Features!
 X + Y = ??? (answer to snooze!!11!!1!)
 
-## 💀 3D Preview!
-
-![https://i.imgur.com/nfcuQc9.png](https://i.imgur.com/nfcuQc9.png)
-![https://i.imgur.com/ip22hmX.png](https://i.imgur.com/ip22hmX.png)
+## 💀 Overall Case!
+| Top View | Bottom View |
+| - | - |
+| ![https://i.imgur.com/nfcuQc9.png](https://i.imgur.com/nfcuQc9.png) | ![https://i.imgur.com/ip22hmX.png](https://i.imgur.com/ip22hmX.png)
 
 ## ✍️ Schematic Image!
 ![https://i.imgur.com/3SmF2II.png](https://i.imgur.com/3SmF2II.png)
@@ -32,7 +32,7 @@ X + Y = ??? (answer to snooze!!11!!1!)
 
 | Lid | Case Chassis |
 | - | - |
-| ![https://i.imgur.com/KQA19zP.png](https://i.imgur.com/KQA19zP.png) | ![https://i.imgur.com/MDB6f13.png](https://i.imgur.com/MDB6f13.png) |
+| ![https://i.imgur.com/KQA19zP.png](https://i.imgur.com/KQA19zP.png) | ![https://i.imgur.com/MDB6f13.png](https://i.imgur.com/4hKnlHI.png) |
 | The lid will be connected to the main case using strong adhesive to keep it minimalist and having a clean design | The PCB and all the main parts will be mounted on 3 mountings using M3 screws and for the LCD will be mounted on the case's dedicated slot for the LCD |
 
 ## Bill of Materials!
